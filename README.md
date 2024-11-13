@@ -15,7 +15,10 @@ Customizable Responses: Easily configurable to respond to new types of emergenci
 
 # Example Queries
 "How do I handle a fire emergency?"
+
 "What's the emergency contact number for a hospital?"
+
 "What should I do if someone is choking?"
+
 "Who to call in case of a gas leak?"
-"Who to call in case of a gas leak?"
+
